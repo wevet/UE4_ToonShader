@@ -13,6 +13,7 @@ rmdir /q /s ..\\DerivedDataCache
 rmdir /q /s ..\\Plugins\\ImpostorBaker\\Binaries
 rmdir /q /s ..\\Plugins\\ImpostorBaker\\Intermediate
 
+del ..\\Custom_ToonShade.sln
 
 pause
 exit 0
